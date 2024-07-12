@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <Group type="103" groupAlignment="1" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="32767" attributes="0"/>
+                      <Component id="enviarButton" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel8" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLabel9" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="sintomasLabel" alignment="0" min="-2" max="-2" attributes="0"/>
+                                          <Group type="102" alignment="0" attributes="0">
+                                              <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                                              <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Group type="102" alignment="0" attributes="0">
+                                                      <Group type="103" groupAlignment="0" attributes="0">
+                                                          <Component id="corizaCheckBox" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                          <Component id="tosseCheckBox" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                          <Component id="febreCheckBox" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                          <Component id="fraquezaCheckBox" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                          <Component id="dorGargantaCheckBox" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                      </Group>
+                                                      <EmptySpace min="-2" pref="50" max="-2" attributes="0"/>
+                                                      <Group type="103" groupAlignment="0" attributes="0">
+                                                          <Component id="dificuldadeRespirarCheckBox" min="-2" max="-2" attributes="0"/>
+                                                          <Component id="perdaPaladarCheckBox" min="-2" max="-2" attributes="0"/>
+                                                          <Component id="calafrioCheckBox" min="-2" max="-2" attributes="0"/>
+                                                          <Component id="cefaleiaCheckBox" alignment="0" min="-2" max="-2" attributes="0"/>
+                                                          <Component id="dorMuscularCheckBox" min="-2" max="-2" attributes="0"/>
+                                                      </Group>
+                                                      <EmptySpace min="-2" pref="50" max="-2" attributes="0"/>
+                                                      <Group type="103" groupAlignment="0" attributes="0">
+                                                          <Component id="perdaOlfatoCheckBox" min="-2" max="-2" attributes="0"/>
+                                                          <Component id="diarreiaCheckBox" min="-2" max="-2" attributes="0"/>
+                                                          <Component id="dificuldadeEngolirCheckBox" min="-2" max="-2" attributes="0"/>
+                                                          <Component id="congestaoCheckBox" min="-2" max="-2" attributes="0"/>
+                                                          <Component id="nauseaCheckBox" min="-2" max="-2" attributes="0"/>
+                                                      </Group>
+                                                  </Group>
+                                                  <Group type="102" alignment="0" attributes="0">
+                                                      <Component id="voltarButton" min="-2" max="-2" attributes="0"/>
+                                                      <EmptySpace min="-2" pref="124" max="-2" attributes="0"/>
+                                                      <Component id="prioridadeLabel" min="-2" pref="133" max="-2" attributes="0"/>
+                                                  </Group>
+                                              </Group>
+                                          </Group>
+                                          <Group type="103" alignment="0" groupAlignment="0" max="-2" attributes="0">
+                                              <Component id="jLabel13" min="-2" max="-2" attributes="0"/>
+                                              <Component id="jLabel10" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="jLabel11" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Component id="jLabel12" alignment="0" min="-2" max="-2" attributes="0"/>
+                                              <Group type="102" attributes="0">
+                                                  <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="enderecoTextField" min="-2" pref="198" max="-2" attributes="0"/>
+                                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                  <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="emailTextField" max="32767" attributes="0"/>
+                                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                  <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="idadeTextField" min="-2" pref="45" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Group type="102" alignment="0" attributes="0">
+                                                  <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="telefoneTextField" min="-2" pref="176" max="-2" attributes="0"/>
+                                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                  <Component id="jLabel17" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="cpfTextField" min="-2" pref="143" max="-2" attributes="0"/>
+                                                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                                                  <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="sexoMasculinoCheckBox" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="sexoFemininoCheckBox" min="-2" max="-2" attributes="0"/>
+                                              </Group>
+                                              <Group type="102" attributes="0">
+                                                  <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                                                  <EmptySpace max="-2" attributes="0"/>
+                                                  <Component id="nomeTextField" max="32767" attributes="0"/>
+                                              </Group>
+                                          </Group>
+                                      </Group>
+                                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                  </Group>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                                      <Group type="103" groupAlignment="0" attributes="0">
+                                          <Component id="cirurgiasTextField" max="32767" attributes="0"/>
+                                          <Component id="alergiasTextField" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="medicamentosTextField" alignment="0" max="32767" attributes="0"/>
+                                          <Component id="predisposicoesTextField" max="32767" attributes="0"/>
+                                          <Group type="102" attributes="0">
+                                              <Component id="fumanteCheckBox" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Component id="alcoolCheckBox" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                                              <Component id="atividadeFisicaCheckBox" min="-2" max="-2" attributes="0"/>
+                                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                          </Group>
+                                      </Group>
+                                  </Group>
+                              </Group>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="nomeTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="telefoneTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel17" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cpfTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="sexoMasculinoCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="sexoFemininoCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLabel6" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="enderecoTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel7" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="emailTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="idadeTextField" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+              <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel10" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="cirurgiasTextField" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel11" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="alergiasTextField" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel12" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="medicamentosTextField" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLabel13" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="predisposicoesTextField" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="fumanteCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="alcoolCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="atividadeFisicaCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="40" max="-2" attributes="0"/>
+              <Component id="sintomasLabel" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="febreCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="dificuldadeRespirarCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="perdaOlfatoCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="tosseCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="perdaPaladarCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="diarreiaCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="calafrioCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="dificuldadeEngolirCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="fraquezaCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="corizaCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="cefaleiaCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="congestaoCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="dorGargantaCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="dorMuscularCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="nauseaCheckBox" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="40" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="enviarButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="voltarButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="prioridadeLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="FICHA DO PACIENTE"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nome:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Idade:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel4">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Sexo:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Telefone:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel6">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Endere&#xe7;o:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel7">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="E-mail:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="nomeTextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="idadeTextField">
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="sexoMasculinoCheckBox">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Masculino"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="sexoMasculinoCheckBoxActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="sexoFemininoCheckBox">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Feminino"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="sexoFemininoCheckBoxActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="telefoneTextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="enderecoTextField">
+    </Component>
+    <Component class="javax.swing.JTextField" name="emailTextField">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel8">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Informa&#xe7;&#xf4;es pessoais:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel9">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Informa&#xe7;&#xf5;es m&#xe9;dicas:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel10">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="J&#xe1; realizou alguma cirurgia? Se sim, quais?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="cirurgiasTextField">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel11">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Tem alguma alergia? Se sim, quais?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="alergiasTextField">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel12">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Utiliza algum medicamento regularmente? Se sim, quais?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="medicamentosTextField">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel13">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Possui familiares com diabetes, doen&#xe7;as card&#xed;acas ou canc&#xea;r?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="predisposicoesTextField">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel17">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="CPF:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="cpfTextField">
+    </Component>
+    <Component class="javax.swing.JLabel" name="sintomasLabel">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Segoe UI" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Sentiu algum dos sintomas a baixo? Se sim, quais?"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="febreCheckBox">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Febre"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="tosseCheckBox">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Tosse"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="fraquezaCheckBox">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Fraqueza"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="corizaCheckBox">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Coriza"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="dorGargantaCheckBox">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Dor de garganta"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="dificuldadeRespirarCheckBox">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Dificuldade para respirar"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="perdaPaladarCheckBox">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Perda de paladar"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="calafrioCheckBox">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Calafrio"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="cefaleiaCheckBox">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Cefaleia"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="dorMuscularCheckBox">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Dor muscular"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="perdaOlfatoCheckBox">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Perda de olfato"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="diarreiaCheckBox">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Diarreia"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="dificuldadeEngolirCheckBox">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Dificuldade de engolir"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="congestaoCheckBox">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Congest&#xe3;o Nasal"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="nauseaCheckBox">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="N&#xe1;usea/V&#xf4;mito"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="fumanteCheckBox">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Fumante"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="alcoolCheckBox">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Consome &#xe1;lcool"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JCheckBox" name="atividadeFisicaCheckBox">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Realiza atividade f&#xed;sica regularmente"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="enviarButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Enviar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="enviarButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="voltarButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Voltar"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="voltarButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="prioridadeLabel">
+    </Component>
+  </SubComponents>
+</Form>
